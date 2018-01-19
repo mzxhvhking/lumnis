@@ -1,0 +1,21 @@
+﻿  AimbotRecode.cpp
+  ESP.cpp
+  MenuV2.cpp
+c:\users\niiii_000\desktop\сурс и протекторы\вы\luminusgo3\datamap.h(46): warning C4091: typedef : пропускается слева от "_fieldtypes", когда ни одна переменная не объявлена (компилируется исходный файл MenuV2.cpp)
+c:\users\niiii_000\desktop\сурс и протекторы\вы\luminusgo3\datamap.h(46): warning C4091: typedef : пропускается слева от "_fieldtypes", когда ни одна переменная не объявлена (компилируется исходный файл ESP.cpp)
+c:\users\niiii_000\desktop\сурс и протекторы\вы\luminusgo3\datamap.h(46): warning C4091: typedef : пропускается слева от "_fieldtypes", когда ни одна переменная не объявлена (компилируется исходный файл AimbotRecode.cpp)
+AimbotRecode.cpp(115): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных (компилируется исходный файл AimbotRecode.cpp)
+AimbotRecode.cpp(121): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных (компилируется исходный файл AimbotRecode.cpp)
+c:\users\niiii_000\desktop\сурс и протекторы\вы\luminusgo3\MenuV2_PlayerListTab.h(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (компилируется исходный файл MenuV2.cpp)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf" (компилируется исходный файл MenuV2.cpp)
+AimbotRecode.cpp(726): warning C4244: *=: преобразование "double" в "float", возможна потеря данных (компилируется исходный файл AimbotRecode.cpp)
+AimbotRecode.cpp(751): warning C4244: *=: преобразование "double" в "float", возможна потеря данных (компилируется исходный файл AimbotRecode.cpp)
+MenuV2.cpp(141): warning C4101: name: неиспользованная локальная переменная (компилируется исходный файл MenuV2.cpp)
+MenuV2.cpp(280): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (компилируется исходный файл MenuV2.cpp)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(86): note:  см. объявление "strcat" (компилируется исходный файл MenuV2.cpp)
+  Создание кода
+  6 of 4570 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    75 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  LuminusGO3.vcxproj -> C:\Users\niiii_000\Desktop\сурс и протекторы\вы\Release\lugo.dll
